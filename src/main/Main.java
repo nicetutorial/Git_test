@@ -4,7 +4,7 @@
  */
 package main;
 
-import gui.Frame;
+import gui.*;
 import javax.swing.JFrame;
 
 /**
@@ -12,11 +12,13 @@ import javax.swing.JFrame;
  * @author adopleb
  */
 public class Main {
-    
-    public static void main(String args[])
-    {
+
+    public static void main(String args[]) {
+        System.out.println("repariert und zweiten Frame eingebaut");
         JFrame frame = new Frame();
-        frame.setVisible(tru;
-        
+        frame.setVisible(true);
+        JFrame frame2 = new Frame2();
+        frame2.setVisible(true);        
+
     }
 }
