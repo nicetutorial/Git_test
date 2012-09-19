@@ -15,8 +15,9 @@ public class Main {
     
     public static void main(String args[])
     {
+        System.out.println("repariert in anderem Zweig");
         JFrame frame = new Frame();
-        frame.setVisible(tru;
+        frame.setVisible(true);
         
     }
 }
