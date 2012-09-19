@@ -4,7 +4,8 @@
  */
 package main;
 
-import gui.*;
+import gui.Frame;
+import gui.Frame2;
 import javax.swing.JFrame;
 
 /**
